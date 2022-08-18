@@ -1,0 +1,6 @@
+Name	Marks	Percentage 
+KSH    9.000000    40.909091
+abcdef    18.000000    81.818182
+khushboo    15.000000    68.181818
+jivansh    2.000000    9.090909
+jivansh_tyagi    4.000000    18.181818
